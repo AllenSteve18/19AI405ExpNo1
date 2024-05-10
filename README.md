@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: MUKESH.R</h3>
-<h3>Register Number: 212223240100</h3>
+<h3>Name:B.Allen Steve Bernard
+<h3>Register Number: 212221220004</h3>
 
 
 <h3>AIM:</h3>
